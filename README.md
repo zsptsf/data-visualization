@@ -31,4 +31,10 @@
 #### 项目展示
 
 1.  项目截图
-2.  演示地址：[http://zspt_sf.gitee.io/data-visualization-view](http://zspt_sf.gitee.io/data-visualization-view)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210412091229683.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyNzgzNjU0,size_16,color_FFFFFF,t_70)
+动态效果图：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210412091351883.gif)
+2.  演示地址
+[http://zspt_sf.gitee.io/data-visualization-view](http://zspt_sf.gitee.io/data-visualization-view)
+3.  相关文章阅读
+[Vue使用ECharts完成2020年全国各地区GDP总量大数据可视化面板（附源码）](https://blog.csdn.net/qq_42783654/article/details/115611681)
